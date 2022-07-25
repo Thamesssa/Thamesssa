@@ -1,4 +1,5 @@
 ## I'm Developer, Student and a Creative !!!
+![Profile views](https://gpvc.arturio.dev/trillionclues)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
