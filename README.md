@@ -1,4 +1,4 @@
-## Hi  Hi 👋, I'm Thamsanqa 
+## Hi 👋, I'm Thamsanqa 
 
 ### Glad to have you here!
 
