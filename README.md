@@ -14,6 +14,9 @@
 
 ![Twitter URL](https://img.shields.io/twitter/follow/thamess_sa?label=Follow&style=social)
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamesssa)](https://github.com/thamesssa/github-readme-stats)
+
 
 ### Tech & Tools Preference
 
