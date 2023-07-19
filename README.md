@@ -3,7 +3,7 @@
 ### Glad to have you here!
 
 #### I'm Developer, Student and a Creative !!!
-![Profile views](https://gpvc.arturio.dev/thamesssa)
+![](https://komarev.com/ghpvc/?username=thamesssa)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
