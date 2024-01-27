@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn More About Web Applications and Software development  
+- 🥅 2024 Goals: Learn More About Web Applications, Software development and AI  
 
 
 ### Connect with me:
