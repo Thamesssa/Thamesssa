@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=thamesssa)
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Learn More About Web Applications, Software development and AI  
 
 
